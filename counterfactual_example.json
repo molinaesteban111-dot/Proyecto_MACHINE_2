@@ -1,0 +1,12 @@
+{
+  "prob_original": 0.11511661112308502,
+  "prob_counterfactual": 0.5270950198173523,
+  "prediccion_cf": 1,
+  "cambios": {
+    "x5": {
+      "original": 0.0,
+      "sugerido": 0.5,
+      "delta": 0.5
+    }
+  }
+}

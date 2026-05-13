@@ -1,0 +1,20 @@
+{
+  "x5": {
+    "n_grupo_0": 373,
+    "n_grupo_1": 377,
+    "tasa_aprob_g0": 0.3861,
+    "tasa_aprob_g1": 0.5676,
+    "disparate_impact": 0.6801,
+    "auc_g0": 0.7925,
+    "auc_g1": 0.7703
+  },
+  "x17": {
+    "n_grupo_0": 294,
+    "n_grupo_1": 456,
+    "tasa_aprob_g0": 0.4864,
+    "tasa_aprob_g1": 0.4715,
+    "disparate_impact": 0.9694,
+    "auc_g0": 0.7763,
+    "auc_g1": 0.7925
+  }
+}
